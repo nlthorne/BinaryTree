@@ -1,0 +1,6 @@
+C:\Users\nltho\Documents\GitHub\BinaryTree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\nltho\Documents\GitHub\BinaryTree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\nltho\Documents\GitHub\BinaryTree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\nltho\Documents\GitHub\BinaryTree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\nltho\Documents\GitHub\BinaryTree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\nltho\Documents\GitHub\BinaryTree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
